@@ -1,0 +1,15 @@
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\QA_Lab3.exe
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\QA_Lab3.deps.json
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\QA_Lab3.runtimeconfig.json
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\QA_Lab3.dll
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\ref\QA_Lab3.dll
+C:\test\QA_Lab3\QA_Lab3\bin\Debug\net6.0\QA_Lab3.pdb
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.csproj.AssemblyReference.cache
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.AssemblyInfoInputs.cache
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.AssemblyInfo.cs
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.csproj.CoreCompileInputs.cache
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.dll
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\ref\QA_Lab3.dll
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.pdb
+C:\test\QA_Lab3\QA_Lab3\obj\Debug\net6.0\QA_Lab3.genruntimeconfig.cache
